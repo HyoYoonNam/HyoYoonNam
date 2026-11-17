@@ -18,6 +18,10 @@ My recent work includes SQL query optimization, bookshelf data modeling, and API
 
 ### [ChaekChaek](https://github.com/woowacourse-teams/2026-chaekchaek)
 
+<p>
+  <img align="right" src="./assets/chaekchaek-mascot.png" alt="ChaekChaek mascot, a white bird sitting on an orange book" width="112" height="112" />
+</p>
+
 **Team project, backend developer**
 
 A reading platform for discovering books, organizing personal bookshelves, and sharing reviews.
