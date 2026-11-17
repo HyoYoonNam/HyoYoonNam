@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hyoyoonnam"><img src="./assets/linkedin.svg" alt="LinkedIn" height="34" /></a>
-  <a href="https://HyoYoonNam.github.io"><img src="./assets/blog.svg" alt="Blog" height="34" /></a>
-  <a href="mailto:dev.rudevico@gmail.com"><img src="./assets/email.svg" alt="Email" height="34" /></a>
+  <a href="https://www.linkedin.com/in/hyoyoonnam"><img src="./assets/linkedin.svg" alt="LinkedIn" height="28" /></a>
+  <a href="https://HyoYoonNam.github.io"><img src="./assets/blog.svg" alt="Blog" height="28" /></a>
+  <a href="mailto:dev.rudevico@gmail.com"><img src="./assets/email.svg" alt="Email" height="28" /></a>
 </p>
 
 ## About Me
