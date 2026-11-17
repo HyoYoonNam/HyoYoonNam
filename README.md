@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Hyo Yoon Nam, Backend Developer — Java, Spring Boot, SQL" width="100%" />
+  <img src="./assets/terminal-intro.gif" alt="Hello, World! I'm Hyoyoon Nam, in South Korea." width="760" />
 </p>
 
 <p align="center">
@@ -7,6 +7,8 @@
   <a href="https://HyoYoonNam.github.io"><img src="./assets/blog.svg" alt="Blog" height="28" /></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dev.rudevico%40gmail.com"><img src="./assets/email.svg" alt="Compose an email in Gmail" height="28" /></a>
 </p>
+
+<div align="center">
 
 <details>
 <summary>Email address</summary>
@@ -16,6 +18,8 @@ dev.rudevico@gmail.com
 ```
 
 </details>
+
+</div>
 
 ## About Me
 
