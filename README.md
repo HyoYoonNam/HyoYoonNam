@@ -5,8 +5,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hyoyoonnam"><img src="./assets/linkedin.svg" alt="LinkedIn" height="28" /></a>
   <a href="https://HyoYoonNam.github.io"><img src="./assets/blog.svg" alt="Blog" height="28" /></a>
-  <a href="mailto:dev.rudevico@gmail.com"><img src="./assets/email.svg" alt="Email" height="28" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dev.rudevico%40gmail.com"><img src="./assets/email.svg" alt="Compose an email in Gmail" height="28" /></a>
 </p>
+
+<details>
+<summary>Email address</summary>
+
+```text
+dev.rudevico@gmail.com
+```
+
+</details>
 
 ## About Me
 
