@@ -41,7 +41,6 @@ A reading platform for discovering books, organizing personal bookshelves, and s
 
 - Redesigned a MySQL covering index, reducing average first-page feed latency from **376 ms to 196 ms** in a development-database test with 3 concurrent clients and 100,018 reviews. [PR #712](https://github.com/woowacourse-teams/2026-chaekchaek/pull/712)
 - Moved popular-review ranking and pagination from Java to MySQL, increasing successful throughput from **2.6 to 12.9 requests/s** and reducing p95 latency from **4.8 s to 1.0 s**. Measured on a development server with 10 concurrent clients, 5,000 synthetic reviews, and a 256 MiB JVM heap. [PR #519](https://github.com/woowacourse-teams/2026-chaekchaek/pull/519)
-- Separated bookshelf placement from shared reading records so a book can appear on multiple shelves without duplicating reading progress or ratings. [PR #598](https://github.com/woowacourse-teams/2026-chaekchaek/pull/598)
 - Connected Spring REST Docs tests to OpenAPI generation and Swagger UI. [PR #23](https://github.com/woowacourse-teams/2026-chaekchaek/pull/23)
 
 ### [Image Paste on GitHub](https://github.com/HyoYoonNam/image-paste-on-github)
